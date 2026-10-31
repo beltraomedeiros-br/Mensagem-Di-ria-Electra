@@ -1,0 +1,25 @@
+{
+  "name": "Mensagem Diária — Electra",
+  "short_name": "Mensagem Diária",
+  "description": "Gerador de mensagens diárias com seleção de ambientes e comandos de voz.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07152f",
+  "theme_color": "#07152f",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

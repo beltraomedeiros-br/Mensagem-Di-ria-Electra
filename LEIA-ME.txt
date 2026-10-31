@@ -1,0 +1,12 @@
+MENSAGEM DIÁRIA — ELECTRA | PWA PARA GITHUB PAGES
+
+1. Extraia este ZIP.
+2. No GitHub, abra seu repositório e clique em Add file > Upload files.
+3. Selecione os cinco arquivos: index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png.
+   O arquivo LEIA-ME.txt é opcional. Não envie o ZIP fechado.
+4. Clique em Commit changes.
+5. Em Settings > Pages, escolha Deploy from a branch, branch main, pasta /(root), Save.
+6. Para GitHub Pages gratuito, geralmente o repositório precisa ser público. Torná-lo público expõe o código e os arquivos.
+7. Depois de publicar, abra o link HTTPS no Chrome do Android e use Instalar app ou Adicionar à tela inicial.
+
+Observação: os botões/gerador e identidade visual originais foram preservados. Reconhecimento de voz depende da compatibilidade do navegador, da permissão de microfone e pode exigir conexão. O modo offline está preparado para uso após carregamento inicial; requer teste no celular.
